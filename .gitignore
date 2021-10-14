@@ -1,0 +1,12 @@
+# Ignore files that are not source code or .dll
+.vs/
+Debug/
+Help/
+Release/
+ConsoleApplication1/Debug/
+ConsoleApplication1/html/
+ConsoleApplication1/Release/
+ConsoleApplication1/latex/
+ConsoleApplication1/ConsoleApplication1.vcxproj
+ConsoleApplication1/ConsoleApplication1.vcxproj.filters
+ConsoleApplication1/ConsoleApplication1.vcxproj.user
